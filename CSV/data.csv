@@ -1,0 +1,9 @@
+Product,Aisle,Shelf,Quantity,Category
+Dettol,A,2,50,Health
+Fan,A,3,25,Consumer
+Microcontroller,B,3,10,Electrical
+Motor,C,1,30,Electrical
+Pen,C,2,1000,Consumer
+Pulley,C,3,30,Spare part
+Specs,D,1,10,Consumer
+Hello,b13,21,80,Proprietay
